@@ -2,6 +2,7 @@ require "her/version"
 
 require "multi_json"
 require "faraday"
+require "yaml"
 require "active_support"
 require "active_support/inflector"
 require "active_support/core_ext/hash"
